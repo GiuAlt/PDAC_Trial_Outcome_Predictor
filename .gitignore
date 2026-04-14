@@ -1,0 +1,9 @@
+# Raw AACT data — too large for GitHub
+Data/*.txt
+Data/*.zip
+Data/*.csv
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
